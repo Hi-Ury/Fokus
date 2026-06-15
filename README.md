@@ -95,20 +95,6 @@ document.addEventListener('focoFinalizado', () => {
 
 Isso permite que os módulos permaneçam desacoplados e facilita a manutenção da aplicação.
 
-### 📸 Demonstração
-
-Adicione uma captura de tela do projeto:
-
-```md
-![Demonstração](./print.png)
-```
-
-Ou um GIF:
-
-```md
-![Demonstração](./demo.gif)
-```
-
 ---
 
 ## 📁 Acesso ao Projeto
@@ -137,10 +123,8 @@ em qualquer navegador moderno.
 
 ### Deploy
 
-Caso publique o projeto:
-
 ```text
-https://seu-projeto.vercel.app
+[site rodando](https://vercel.com/hiurys-projects-a72e670a/fokus/6exRgddnPyLwWor5x7TKeyedsDGP)
 ```
 
 ---
