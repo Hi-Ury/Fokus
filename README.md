@@ -123,9 +123,7 @@ em qualquer navegador moderno.
 
 ### Deploy
 
-```text
-[site rodando](https://vercel.com/hiurys-projects-a72e670a/fokus/6exRgddnPyLwWor5x7TKeyedsDGP)
-```
+[Site Rodando](https://vercel.com/hiurys-projects-a72e670a/fokus/6exRgddnPyLwWor5x7TKeyedsDGP)
 
 ---
 
