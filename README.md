@@ -95,20 +95,6 @@ document.addEventListener('focoFinalizado', () => {
 
 Isso permite que os módulos permaneçam desacoplados e facilita a manutenção da aplicação.
 
-### 📸 Demonstração
-
-Adicione uma captura de tela do projeto:
-
-```md
-![Demonstração](./print.png)
-```
-
-Ou um GIF:
-
-```md
-![Demonstração](./demo.gif)
-```
-
 ---
 
 ## 📁 Acesso ao Projeto
