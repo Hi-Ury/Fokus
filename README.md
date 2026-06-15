@@ -123,7 +123,7 @@ em qualquer navegador moderno.
 
 ### Deploy
 
-[Site Rodando](https://vercel.com/hiurys-projects-a72e670a/fokus/6exRgddnPyLwWor5x7TKeyedsDGP)
+[Site Rodando](https://fokus-git-main-hiurys-projects-a72e670a.vercel.app/)
 
 ---
 
