@@ -123,10 +123,8 @@ em qualquer navegador moderno.
 
 ### Deploy
 
-Caso publique o projeto:
-
 ```text
-https://seu-projeto.vercel.app
+[site rodando](https://vercel.com/hiurys-projects-a72e670a/fokus/6exRgddnPyLwWor5x7TKeyedsDGP)
 ```
 
 ---
